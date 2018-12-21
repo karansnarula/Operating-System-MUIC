@@ -1,0 +1,2 @@
+# Karan 5780677
+# Implement each replacement algorithms and also correctly implementing page fault handler.
